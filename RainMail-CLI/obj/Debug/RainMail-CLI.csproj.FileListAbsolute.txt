@@ -1,0 +1,8 @@
+I:\C-Sharp\RainMail\RainMail-CLI\bin\Debug\RainMail-CLI.exe.config
+I:\C-Sharp\RainMail\RainMail-CLI\bin\Debug\RainMail-CLI.exe
+I:\C-Sharp\RainMail\RainMail-CLI\bin\Debug\RainMail-CLI.pdb
+I:\C-Sharp\RainMail\RainMail-CLI\obj\Debug\RainMail-CLI.exe
+I:\C-Sharp\RainMail\RainMail-CLI\obj\Debug\RainMail-CLI.pdb
+I:\C-Sharp\RainMail\RainMail-CLI\obj\Debug\RainMail-CLI.csprojResolveAssemblyReference.cache
+I:\C-Sharp\RainMail\RainMail-CLI\bin\Debug\AE.Net.Mail.dll
+I:\C-Sharp\RainMail\RainMail-CLI\bin\Debug\AE.Net.Mail.pdb
